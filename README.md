@@ -2,8 +2,9 @@
 
 A lightweight, beginner-friendly graphical utility for **Linux Mint / Cinnamon** (and any desktop running the **Nemo File Manager**) that connects **Google Drive, Microsoft OneDrive, Dropbox, Proton Drive, pCloud, Box, and MEGA** directly into Nemo's sidebar—**zero terminal commands required**.
 
-![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-![Platform](https://img.shields.io/badge/desktop-Cinnamon%20%2F%20Nemo-green.svg)
+License - MIT
+
+Platform - Cinnamon and Mint
 
 ---
 
