@@ -1,1 +1,8 @@
-soon
+[Desktop Entry]
+Name=Nemo Cloud Drive Setup
+Comment=Connect Google Drive, OneDrive, and Dropbox to Nemo
+Exec=/usr/bin/nemo-cloud-wizard
+Icon=folder-remote
+Terminal=false
+Type=Application
+Categories=System;FileTools;
