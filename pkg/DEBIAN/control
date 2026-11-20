@@ -1,1 +1,10 @@
-soon
+Package: nemo-cloud-setup
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0, rclone, fuse3
+Maintainer: Cloud Wizard
+Description: Graphical Cloud Drive Setup Wizard for Nemo File Manager
+ Easily connect Google Drive, OneDrive, Dropbox, and other cloud drives
+ into the Nemo file manager without using the terminal.
